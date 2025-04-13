@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "week": "1",
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-07",
+    "location": "Main Building"
+  },
+  "daily_usage": [
+    {
+      "date": "2025-01-01",
+      "total_kwh": 142.5,
+      "peak_time": "18:30",
+      "peak_value": 12.3,
+      "devices": {
+        "hvac": 65.2,
+        "lighting": 28.7,
+        "appliances": 38.1,
+        "computers": 10.5
+      }
+    },
+    {
+      "date": "2025-01-02",
+      "total_kwh": 138.7,
+      "peak_time": "19:00",
+      "peak_value": 11.8,
+      "devices": {
+        "hvac": 62.5,
+        "lighting": 29.2,
+        "appliances": 35.8,
+        "computers": 11.2
+      }
+    },
+    {
+      "date": "2025-01-03",
+      "total_kwh": 145.2,
+      "peak_time": "17:45",
+      "peak_value": 13.1,
+      "devices": {
+        "hvac": 68.3,
+        "lighting": 27.4,
+        "appliances": 39.5,
+        "computers": 10.0
+      }
+    },
+    {
+      "date": "2025-01-04",
+      "total_kwh": 112.8,
+      "peak_time": "13:15",
+      "peak_value": 9.7,
+      "devices": {
+        "hvac": 48.6,
+        "lighting": 22.5,
+        "appliances": 31.2,
+        "computers": 10.5
+      }
+    },
+    {
+      "date": "2025-01-05",
+      "total_kwh": 105.3,
+      "peak_time": "14:30",
+      "peak_value": 8.9,
+      "devices": {
+        "hvac": 44.7,
+        "lighting": 21.8,
+        "appliances": 28.9,
+        "computers": 9.9
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "total_kwh": 139.6,
+      "peak_time": "18:15",
+      "peak_value": 12.0,
+      "devices": {
+        "hvac": 63.8,
+        "lighting": 28.3,
+        "appliances": 36.7,
+        "computers": 10.8
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "total_kwh": 141.2,
+      "peak_time": "18:45",
+      "peak_value": 12.5,
+      "devices": {
+        "hvac": 64.9,
+        "lighting": 28.0,
+        "appliances": 37.5,
+        "computers": 10.8
+      }
+    }
+  ]
+}
